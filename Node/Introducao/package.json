@@ -1,0 +1,15 @@
+{
+  "name": "conhecendo-packgejson",
+  "version": "1.0.0",
+  "description": "criação do Package.Json através do terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript;node"
+  ],
+  "author": "Alessandra Murat",
+  "license": "ISC"
+}
